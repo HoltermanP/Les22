@@ -1,0 +1,10 @@
+.footer{
+position: relative;
+bottom: 0;
+width: 100%;
+min-height: 200px;
+background-color: bisque;
+}
+.navbar{
+    background-color: bisque;
+}
